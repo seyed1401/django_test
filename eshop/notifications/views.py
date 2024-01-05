@@ -6,3 +6,7 @@ def indexpage(request):
     pass
 
 # my comment for test
+# my comment for test
+# my comment for test
+# my comment for test
+# my comment for test
