@@ -7,6 +7,3 @@ def indexpage(request):
 
 # my comment for test
 # my comment for test
-# my comment for test
-# my comment for test
-# my comment for test
