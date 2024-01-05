@@ -7,10 +7,3 @@ def indexpage(request):
 
 # my comment for test
 # my comment for test
-
-
-# this is a comment for test
-# please updete this comment for my budy
-
-
-# a new changes
